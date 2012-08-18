@@ -4,7 +4,7 @@
 " Creator: Ryan Phillips <ryan@trolocsis.com>
 " Credits: This color scheme originated from the idea of 
 "          Jeffrey Bakker, the creator of webcpp (http://webcpp.sourceforge.net/).
-"     URL: http://www.trolocsis.com/vim/golden.vim
+" Updated By: Christopher Galtenberg (removed red as symbol color)
 "
 
 hi clear
