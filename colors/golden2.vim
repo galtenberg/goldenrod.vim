@@ -36,7 +36,7 @@ hi Comment		  term=bold  cterm=bold ctermfg=brown  guifg=#978345
 hi Constant		  term=underline  cterm=bold ctermfg=darkyellow  guifg=#DAA520
 hi Special		  term=bold  cterm=bold ctermfg=darkyellow guifg=Orange
 hi Identifier	  term=underline ctermfg=lightgray  guifg=#DBCA98
-hi Statement	  term=bold  cterm=bold ctermfg=lightgreen	gui=bold  guifg=#ffff60
+hi Statement	  term=bold  cterm=bold ctermfg=lightgreen	gui=bold  guifg=#FFC125
 hi PreProc		  term=underline  ctermfg=brown	guifg=#ffddaa
 hi Type			    term=underline  cterm=bold ctermfg=lightgreen  gui=bold  guifg=#FFC125
 hi Error		    term=reverse	ctermfg=darkcyan  ctermbg=black  guifg=Red	guibg=Black
