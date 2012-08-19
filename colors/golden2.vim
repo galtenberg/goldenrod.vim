@@ -1,10 +1,10 @@
 " vim: tw=0 ts=4 sw=4
 " Vim color file
 "
-" Creator: Ryan Phillips <ryan@trolocsis.com>
+" Creator: Ryan Phillips <ryan@trolocsis.com> (theme name: golden)
 " Credits: This color scheme originated from the idea of 
 "          Jeffrey Bakker, the creator of webcpp (http://webcpp.sourceforge.net/).
-" Updated By: Christopher Galtenberg (removed red as symbol color)
+" Updated By: Christopher Galtenberg (renamed: goldenrod, removed red as symbol color)
 "
 
 hi clear
@@ -12,7 +12,7 @@ set background=dark
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "golden2"
+let g:colors_name = "goldenrod"
 
 hi Normal		    ctermfg=yellow guifg=#EEB422  guibg=black
 hi Scrollbar	  ctermfg=Yellow guifg=#EEB422  guibg=black
